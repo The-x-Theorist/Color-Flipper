@@ -1,0 +1,21 @@
+{
+  "name": "color-flipper",
+  "version": "1.0.0",
+  "description": "This is app which randomizes the background color when clicked on the button",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-x-Theorist/Color-Flipper.git"
+  },
+  "author": "sneh khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-x-Theorist/Color-Flipper/issues"
+  },
+  "homepage": "https://github.com/The-x-Theorist/Color-Flipper#readme"
+}
